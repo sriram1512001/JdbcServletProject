@@ -14,11 +14,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
+    <!-- <dependency>
     	<groupId>com.Revision</groupId>
     	<artifactId>Project</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+    </dependency> -->
     <dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
