@@ -12,7 +12,7 @@ import java.util.List;
 import com.entity.Employee;
 
 public class EmployeService  {
-	static String url="jdbc:postgresql://localhost:5432/players";
+	static String url="jdbc:postgresql://172.31.28.5:5432/players";
 	static String user="postgres";
 	static String pwd="tiger";
 	
